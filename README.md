@@ -1,0 +1,2 @@
+# Unpaired-Image-to-Image-Translation-using-CycleGANs
+This project utilizes CycleGANs for unpaired image-to-image translation to generate images in Monet's style from photorealistic pictures. Leveraging TensorFlow and Keras on TPU infrastructure, the model effectively captures Monet's artistic nuances, demonstrating CycleGANs potential in creative style transfer and advancing ML applications in art.
